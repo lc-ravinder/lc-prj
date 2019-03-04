@@ -1,0 +1,1 @@
+<?php echo 'starting project for laravel';?>
