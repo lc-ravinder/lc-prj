@@ -1,1 +1,1 @@
-<?php echo 'starting project for';?>
+<?php echo 'starting project for laravel';?>
